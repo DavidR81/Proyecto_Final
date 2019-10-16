@@ -1,0 +1,18 @@
+AnnualCrop --> Cultivo --> urbanizable
+Forest --> bosque --> terreno no urbanizable
+HerbaceousVegetation --> Vegetacion, hierva --> urbanizable
+Highway --> autopista/carretera --> terreno no urbanizable
+Industrial --> industria --> urbanizable 
+Pasture --> zona de pasto --> terreno no urbanizable
+PermanentCrop --> cultivo permanente --> terreno no urbanizable
+Residential --> residencial --> urbanizable
+river --> rio --> terreno no urbanizable
+seaLake --> mar/oceano/lago --> terreno no urbanizable
+
+
+RED NEURONAL CONVULCIONAL
+
+
+
+
+
