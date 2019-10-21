@@ -1,4 +1,4 @@
-# TERRENOS URBANIZABLES
+# PROYECTO FINAL
 
 ![Titulo](Img/Portada.jpg)
 
@@ -12,7 +12,7 @@
 ![Titulo](Img/tipos_de_suelo.jpg)
    
 
-###  2. - Creamos un modelo de prediccioón usando una red neuronal convolucional(cnn).
+###  2. - Creamos un modelo de predicción usando una red neuronal convolucional(cnn).
 ###       Caracteristicas del modelo:
 
 ![Titulo](Img/Test_modelo1.jpg)
